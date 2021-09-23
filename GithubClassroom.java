@@ -7,7 +7,7 @@ class GithubClassroom {
         Scanner scan = new Scanner(System.in);
 
         // make this print "Hello Github Classroom"
-        // make sure you can run it in your terminal!
+        // make sure you can compile+run it in your terminal!
         System.out.println("Hello"); 
 
     }
